@@ -1,0 +1,5 @@
+node_modules/
+ios/
+android/app/src/main/assets/
+dist/
+package-lock.json
